@@ -1,0 +1,13 @@
+.Cat-container{
+    display: flex;
+
+}
+
+.Cat-container img{
+    width: 300px;
+    padding: 15px;
+}
+
+.Cat-container h3{
+    padding: 15px;
+}
